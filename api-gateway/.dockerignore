@@ -1,0 +1,7 @@
+**/target/
+!**/target/*.jar
+**/build/
+.git
+.gitignore
+.idea
+*.iml
