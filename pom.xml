@@ -43,9 +43,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
-  <modules>
-    <module>service-registry</module>
-  </modules>
-
 </project>
